@@ -4,6 +4,7 @@
 ### Розумний та персоналізований домашній екран для Android TV & Google TV
 
 [![Release](https://img.shields.io/badge/Версія-0.5-brightgreen.svg)](https://github.com/gulivermaks/StarTV/releases/latest)
+[![Telegram](https://img.shields.io/badge/Telegram-@GuliverMaks-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/GuliverMaks)
 [![Platform](https://img.shields.io/badge/Платформа-Android%20TV%20%7C%20Google%20TV-blue.svg)](https://android.com/tv/)
 [![Language](https://img.shields.io/badge/Мова-Українська-yellow.svg)](https://github.com/gulivermaks/StarTV)
 [![License](https://img.shields.io/badge/Ліцензія-Власна-orange.svg)](#-конфіденційність)
@@ -61,6 +62,13 @@
 * **Ручна перевірка**: ви завжди можете перевірити наявність оновлень у будь-який момент:
   > **Налаштування** ➔ **Оновлення** ➔ **Перевірити**
 * **Список змін українською мовою**: перед встановленням нової версії на екрані телевізора з'явиться вікно з детальним описом того, що саме змінилося.
+
+---
+
+## 💬 Зворотний зв'язок та автор
+
+Маєте запитання, пропозицію чи знайшли помилку? Ви можете зв'язатися з автором напряму в Telegram:
+👉 **[@GuliverMaks](https://t.me/GuliverMaks)**
 
 ---
 
